@@ -1,7 +1,8 @@
 const app = Vue.createApp({
     data() {
         return {
-            product: 'Socks'
+            product: 'Frozen',
+            image: './assets/images/FR.jpg'
         }
     }
 })
